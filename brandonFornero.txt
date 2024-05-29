@@ -1,0 +1,5 @@
+Howdy! My name is Brandon Fornero. I'm starting my senior year as a Computer
+Science student at Texas A&M in the Fall. Outside of software engineering, I love
+sports, music, and space. My favorite programming language is Python because
+I'm very interested in machine learning, however I have been spending a lot of time
+learning Zig recently. Lastly, I love neovim as my text editor!
